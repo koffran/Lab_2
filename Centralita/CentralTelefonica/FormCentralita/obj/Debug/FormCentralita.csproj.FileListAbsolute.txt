@@ -1,0 +1,15 @@
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\bin\Debug\FormCentralita.exe.config
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\bin\Debug\FormCentralita.exe
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\bin\Debug\FormCentralita.pdb
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\bin\Debug\CentralitaHerencia.exe
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\bin\Debug\CentralitaHerencia.pdb
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\bin\Debug\CentralitaHerencia.exe.config
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.csprojAssemblyReference.cache
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.FrmLlamador.resources
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.FrmMenu.resources
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.Properties.Resources.resources
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.csproj.GenerateResource.cache
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.csproj.CoreCompileInputs.cache
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.csproj.CopyComplete
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.exe
+E:\Lista de ejercicios\Centralita\CentralTelefonica\FormCentralita\obj\Debug\FormCentralita.pdb
