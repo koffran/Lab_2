@@ -1,0 +1,9 @@
+E:\Lista de ejercicios\Zarate.Franco\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+E:\Lista de ejercicios\Zarate.Franco\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Lista de ejercicios\Zarate.Franco\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+E:\Lista de ejercicios\Zarate.Franco\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+E:\Lista de ejercicios\Zarate.Franco\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+E:\Lista de ejercicios\Zarate.Franco\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+E:\Lista de ejercicios\Zarate.Franco\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+E:\Lista de ejercicios\Zarate.Franco\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+E:\Lista de ejercicios\Zarate.Franco\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

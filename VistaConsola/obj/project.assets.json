@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": [
+      "E:\\Lista de ejercicios\\Zarate.Franco\\Entidades\\Entidades.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Koff\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Lista de ejercicios\\Zarate.Franco\\VistaConsola\\VistaConsola.csproj",
+      "projectName": "VistaConsola",
+      "projectPath": "E:\\Lista de ejercicios\\Zarate.Franco\\VistaConsola\\VistaConsola.csproj",
+      "packagesPath": "C:\\Users\\Koff\\.nuget\\packages\\",
+      "outputPath": "E:\\Lista de ejercicios\\Zarate.Franco\\VistaConsola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Koff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {
+            "E:\\Lista de ejercicios\\Zarate.Franco\\Entidades\\Entidades.csproj": {
+              "projectPath": "E:\\Lista de ejercicios\\Zarate.Franco\\Entidades\\Entidades.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {}
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se encuentra información del proyecto para \"E:\\Lista de ejercicios\\Zarate.Franco\\Entidades\\Entidades.csproj\". En Visual Studio, esto puede deberse a que el proyecto no se ha descargado o no forma parte de la solución actual. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
+      "libraryId": "E:\\Lista de ejercicios\\Zarate.Franco\\Entidades\\Entidades.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\obj\Debug\netcoreapp2.0\VistaConsola.csprojAssemblyReference.cache
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\obj\Debug\netcoreapp2.0\VistaConsola.csproj.CoreCompileInputs.cache
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\obj\Debug\netcoreapp2.0\VistaConsola.AssemblyInfoInputs.cache
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\obj\Debug\netcoreapp2.0\VistaConsola.AssemblyInfo.cs
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\bin\Debug\netcoreapp2.0\VistaConsola.deps.json
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\bin\Debug\netcoreapp2.0\VistaConsola.runtimeconfig.json
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\bin\Debug\netcoreapp2.0\VistaConsola.runtimeconfig.dev.json
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\bin\Debug\netcoreapp2.0\VistaConsola.dll
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\bin\Debug\netcoreapp2.0\VistaConsola.pdb
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\bin\Debug\netcoreapp2.0\Entidades.dll
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\bin\Debug\netcoreapp2.0\Entidades.pdb
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\obj\Debug\netcoreapp2.0\VistaConsola.csproj.CopyComplete
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\obj\Debug\netcoreapp2.0\VistaConsola.dll
+E:\Lista de ejercicios\Zarate.Franco\VistaConsola\obj\Debug\netcoreapp2.0\VistaConsola.pdb
